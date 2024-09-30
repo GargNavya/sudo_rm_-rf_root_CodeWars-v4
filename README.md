@@ -21,4 +21,4 @@ tkinter<br>
 Pygame 2.5.2 <br>
 
 <h2>Usage</h2>
-Import the files to test into <code>main.py</code> and change the parameters to <code>G = Game((x, x), file1, file2)</code> where <code>file1</code> and <code>file2</code> are the files that you want to test and <code>x</code> is the dimension of the map
+Import the files to test into <code>main.py</code> and change the parameters to <code>G = Game((x, x), file1, file2)</code> where <code>file1</code> and <code>file2</code> are the files that you want to test and <code>x</code> is the dimension of the map.
